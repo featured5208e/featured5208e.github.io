@@ -1,0 +1,52 @@
+body{
+
+    width: 100%;
+	background: url('f.jpg') no-repeat center center fixed;
+	background-size: cover;
+	line-height: 1.2;
+	font-size: 20px;
+    
+}
+#intro 
+{
+    font-family: cursive;
+    color:solid white;
+text-align:center;
+padding: 60px;
+}
+h3{
+    font-family: cursive;
+}
+h4{
+    font-family:cursive;
+}
+p{
+    font-family: cursive;
+}
+.center
+{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 40%;
+}
+table {
+	position: relative;
+    top: 40px;
+	margin: 0 auto 0 auto;
+	padding: 10px;
+	border:2px solid black;
+	text-align: center;
+	color: black;
+}
+td{
+	border:1px solid black;
+	text-align: center;
+}
+.wrapper {
+	width: 80%;
+	margin: 10px auto 0 auto;
+	background-color: white;
+	
+	box-shadow: 0 15px 20px rgba(0, 0, 0, 0.7);
+}
